@@ -45,7 +45,7 @@ git clone https://github.com/johnoseni1/Fully-Block-chain
 ```
 #### Install dependencies
 ```
-cd cryptoboys-NFT-marketplace
+cd Fully-block-chain
 npm install
 ```
 #### Compile smart contract
