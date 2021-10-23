@@ -1,7 +1,7 @@
 # Crypto Boy NFT Marketplace created by John Oseni
 
 #
-<img align="right" width="350" src="./image.png"></img>
+<!-- <img align="right" width="350" src="./image.png"></img> -->
 ### Features
 - Mint custom ERC721 implemented Crypto Boy Tokens.
 - Sell Crypto Boy tokens on the marketplace.
