@@ -1,5 +1,5 @@
 # Crypto Boy NFT Marketplace created by John Oseni
-<i>NFT marketplace DApp where users mint ERC721 implemented Crypto Boy NFTs.</i>
+
 #
 <img align="right" width="350" src="./image.png"></img>
 ### Features
